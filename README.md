@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sacitt
+- 👋 Hi, I’m @Sacitt sometimes @Kenshin 
 - 👀 I’m interested in testnet && cryptocurrency
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on testnet nodes
