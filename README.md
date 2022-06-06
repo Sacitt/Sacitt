@@ -2,7 +2,7 @@
 - 👀 I’m interested in testnet && cryptocurrency
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on testnet nodes
-- 📫 How to reach me Telegram ( @sacithbn )
+- 📫 How to reach me ?  #####   Telegram ( @sacithbn )   #####
 
 <!---
 Sacitt/Sacitt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
