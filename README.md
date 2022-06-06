@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sacitt
 - 👀 I’m interested in testnet && cryptocurrency
-- 🌱 I’m currently learning phayton
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Telegram ( @sacithbn )
 
